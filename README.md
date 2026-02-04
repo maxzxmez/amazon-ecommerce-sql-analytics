@@ -38,14 +38,14 @@ Business recommendations are anchored to performance observed during profitable 
 These recommendations reflect conditions the business has already achieved, ensuring feasibility and alignment with observed data.
 
 ## Repository Structure
-
-sql/ → Layered SQL analytics pipeline (raw → clean → marts → final → KPIs → insights)
-docs/ → Analytical methodology, baseline metrics, and business insights
-presentation/ → Business-facing presentation summarizing key findings and recommendations
+- `sql/` → Layered SQL analytics pipeline (raw → clean → marts → final → KPIs → insights)
+- `docs/` → Analytical methodology, baseline metrics, and business insights
+- `presentation/` → Business-facing presentation summarizing key findings and recommendations
 
 ## Presentation
 The included presentation summarizes the business insights derived from this analysis.
 The SQL pipeline reproduces and formalizes the analytical logic behind these insights using an automated and scalable approach.
+
 
 
 ## Tools & Skills Demonstrated
