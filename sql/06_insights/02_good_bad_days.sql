@@ -38,3 +38,5 @@ FROM labeled_days
 WHERE sales_revenue > 0
 GROUP BY day_type
 ORDER BY day_type DESC;
+
+SELECT * FROM `first-project-mmezhenskyi.case_study.good_bad_days`;
